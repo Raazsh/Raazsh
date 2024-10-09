@@ -27,6 +27,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="MS Word Logo" height="30">
   <img src="https://img.shields.io/badge/Qwiklabs-FF6F00?style=for-the-badge&logo=qwiklabs&logoColor=white" alt="Qwiklabs Logo" height="30">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Logo" height="30">
+
+  <a href="https://www.wireshark.org/">
+  <img src="https://img.shields.io/badge/Wireshark-Proficient-blue?logo=wireshark&logoColor=white" alt="Wireshark Proficient">
+</a>
+<a href="https://www.tcpdump.org/">
+  <img src="https://img.shields.io/badge/tcpdump-Proficient-orange?logo=tcpdump&logoColor=white" alt="tcpdump Proficient">
+</a>
 </div>
 
 
