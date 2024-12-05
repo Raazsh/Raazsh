@@ -47,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/Cybersecurity_Certificate-NSDC-0052CC?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity Certificate - NSDC" height="30">
   </a>
   
-  <a href="https://drive.google.com/file/d/1a0-h0GmAcUDx367eeKTEBxqv6ZuetFyl/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1ezU6-mmpccSl7XkGN30TXmgeIjRbKIZt/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Cybersecurity_Professional-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certification" height="30">
   </a>
 </div>
