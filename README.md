@@ -9,7 +9,7 @@ In addition to my academic pursuits, I have worked as a Digital Interaction Advi
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cyber Security Operations Center as a Tier 1 Cyber security Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |------------------------------------------------|----------------------------|
