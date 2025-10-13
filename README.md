@@ -50,6 +50,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <a href="https://drive.google.com/file/d/1ezU6-mmpccSl7XkGN30TXmgeIjRbKIZt/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Cybersecurity_Professional-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certification" height="30">
   </a>
+
+  <a href="https://www.comptia.org/certifications/security" target="_blank">
+    <img src="https://img.shields.io/badge/Security%2B_(SY0--701)-CompTIA-EA3E26?style=for-the-badge&logo=comptia&logoColor=white" 
+         alt="Security+ (SY0-701) | CompTIA" height="30">
+</a>
 </div>
 
 ##SIEM
