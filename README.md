@@ -6,7 +6,7 @@ I am a recent graduate with a profound interest in technology I’m currently pu
 In addition to my academic pursuits, I have worked as a Digital Interaction Advisor for three months, gaining valuable experience in the tech industry. I’m actively seeking opportunities in cybersecurity where I can apply my knowledge and skills.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cyber Security Operations Center as a Tier 1 Cyber security Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cyber Security Operations Center as a Tier 1 Cyber security/SOC Analyst.
 
 ## Skills
 
