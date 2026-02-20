@@ -51,10 +51,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/Cybersecurity_Professional-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certification" height="30">
   </a>
 
-  <a href="https://www.comptia.org/certifications/security" target="_blank">
+  <a href="[https://www.comptia.org/certifications/security](https://drive.google.com/file/d/1O2vXa-TipiC71c8xfO6WAwbr5hOsZxA6/view?usp=drivesdk)" target="_blank">
     <img src="https://img.shields.io/badge/Security%2B_(SY0--701)-CompTIA-EA3E26?style=for-the-badge&logo=comptia&logoColor=white" 
          alt="Security+ (SY0-701) | CompTIA" height="30">
 </a>
+
+<a href="https://drive.google.com/file/d/1LqHhobkB8G7usQzVr8AbyrCfXGP3BZCO/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Junior%20Analyst-Blue%20Team-1E90FF?style=for-the-badge&logo=hackthebox&logoColor=white" 
+         alt="Blue Team Junior Analyst Pathway | Security Blue Team" height="30">
+</a>
+
 </div>
 
 ##SIEM
