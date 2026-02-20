@@ -28,7 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/Qwiklabs-FF6F00?style=for-the-badge&logo=qwiklabs&logoColor=white" alt="Qwiklabs Logo" height="30">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Logo" height="30">
   <img src="https://img.shields.io/badge/Wireshark-Proficient-blue?logo=wireshark&logoColor=white" alt="Wireshark Proficient" height="30">
-  <img src="https://img.shields.io/badge/tcpdump-Proficient-orange?logo=tcpdump&logoColor=white" alt="tcpdump" height="30">
+  <img src="https://img.shields.io/badge/tcpdump-Beginner-orange?logo=tcpdump&logoColor=white" alt="tcpdump" height="30">
   <img src="https://img.shields.io/badge/fcrackzip-Proficient-8B008B?logo=zip&logoColor=white" alt="fcrackzip" height="30">
   <img src="https://img.shields.io/badge/WPScan-Proficient-1E90FF?logo=wordpress&logoColor=white" alt="WPScan" height="30">
   <img src="https://img.shields.io/badge/UFW%20Firewall(Linux)-Proficient-556B2F?logo=linux&logoColor=white" alt="UFW Firewall (Linux)" height="30">
