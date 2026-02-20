@@ -27,31 +27,33 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="MS Word Logo" height="30">
   <img src="https://img.shields.io/badge/Qwiklabs-FF6F00?style=for-the-badge&logo=qwiklabs&logoColor=white" alt="Qwiklabs Logo" height="30">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Logo" height="30">
+  <img src="https://img.shields.io/badge/Wireshark-Proficient-blue?logo=wireshark&logoColor=white" alt="Wireshark Proficient" height="30">
+  <img src="https://img.shields.io/badge/tcpdump-Proficient-orange?logo=tcpdump&logoColor=white" alt="tcpdump" height="30">
+  <img src="https://img.shields.io/badge/fcrackzip-Proficient-8B008B?logo=zip&logoColor=white" alt="fcrackzip" height="30">
+  <img src="https://img.shields.io/badge/WPScan-Proficient-1E90FF?logo=wordpress&logoColor=white" alt="WPScan" height="30">
+  <img src="https://img.shields.io/badge/UFW%20Firewall(Linux)-Proficient-556B2F?logo=linux&logoColor=white" alt="UFW Firewall (Linux)" height="30">
+  <img src="https://img.shields.io/badge/Splunk-Proficient-000000?logo=splunk&logoColor=white" alt="Splunk Beginner" height="30">
 
-  <a href="https://www.wireshark.org/">
-  <img src="https://img.shields.io/badge/Wireshark-Proficient-blue?logo=wireshark&logoColor=white" alt="Wireshark Proficient">
-</a>
-<a href="https://www.tcpdump.org/">
-  <img src="https://img.shields.io/badge/tcpdump-Proficient-orange?logo=tcpdump&logoColor=white" alt="tcpdump Proficient">
-</a>
+
+
 </div>
 
 
 ## Certifications
 <div style="display: flex; gap: 10px;">
-  <a href="https://drive.google.com/file/d/1CkMm22i6ptgAM6udte6zVVT2zwIKAD-X/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1_YVOJHIefKi83mxWKizZ7vbypIVnEkqr/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Cyber_Security_Associate-Reliance_Foundation-FF6F00?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cyber Security Associate - Reliance Foundation" height="30">
   </a>
   
-  <a href="https://drive.google.com/file/d/1CoVxOZm7wJHQQKCnHxKRDxVjhpAO5JPI/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1qMkvZtRvEgtf4f-i2k1ZriHo0D3bmdFt/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Cybersecurity_Certificate-NSDC-0052CC?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity Certificate - NSDC" height="30">
   </a>
   
-  <a href="https://drive.google.com/file/d/1ezU6-mmpccSl7XkGN30TXmgeIjRbKIZt/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1gj5Tu4gaCHZP4eK2tBkMjS-wZjL8_FtU/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Cybersecurity_Professional-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certification" height="30">
   </a>
 
-  <a href="[https://www.comptia.org/certifications/security](https://drive.google.com/file/d/1O2vXa-TipiC71c8xfO6WAwbr5hOsZxA6/view?usp=drivesdk)" target="_blank">
+  <a href="https://drive.google.com/file/d/1O2vXa-TipiC71c8xfO6WAwbr5hOsZxA6/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Security%2B_(SY0--701)-CompTIA-EA3E26?style=for-the-badge&logo=comptia&logoColor=white" 
          alt="Security+ (SY0-701) | CompTIA" height="30">
 </a>
